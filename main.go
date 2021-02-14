@@ -7,4 +7,9 @@ func main() {
 	forLoop()
 	ifElse()
 	switchStatement()
+	arrays()
+	slices()
+	maps()
+	ranges()
+	functions()
 }
