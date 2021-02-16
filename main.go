@@ -12,4 +12,9 @@ func main() {
 	maps()
 	ranges()
 	functions()
+	closures()
+	pointers()
+	structs()
+	methods()
+	interfaces()
 }
