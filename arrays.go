@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func arrays() {
-	fmt.Println("--------- switch -------------")
+	fmt.Println("--------- array -------------")
 	var a [5]int
 	fmt.Println("emp: ", a)
 
